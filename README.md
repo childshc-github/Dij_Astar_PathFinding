@@ -24,7 +24,7 @@ You can either run the path finding algorithm as described in the unit test file
 
 note: the -a is an optional command that request A* be used. Without -a, Dijkstra's is used.
 
-### nodes and edges file
+### Nodes and Edges File
 A node is defined as a point with a unique ID and a (x, y) coordinate. An edge connects two points. To create your own map, setup a text file with the following format. You can also view the inputs3 and inputs4 directory for examples.
 
 $nodes
