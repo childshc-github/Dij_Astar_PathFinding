@@ -22,7 +22,7 @@ You can either run the path finding algorithm as described in the unit test file
 
 ./path-step4 nodes_file.txt obstacles_file.txt start_node end_node -a
 
-note: the -a is an optional command that request A* be used. Without -a, Dijikstra's is used.
+note: the -a is an optional command that request A* be used. Without -a, Dijkstra's is used.
 
 #### nodes and edges file
 A node is defined as a point with a unique ID and a (x, y) coordinate. An edge connects two points. To create your own map, setup a text file with the following format. You can also view the inputs3 and inputs4 directory for examples.
