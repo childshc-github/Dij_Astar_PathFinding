@@ -8,14 +8,13 @@ Read about the A* search algorithm here: https://en.wikipedia.org/wiki/A*_search
 
 It is also capable of finding best paths, with either method, around obstacles.
 
-***
 
 ## Quick Start
 Download the mp_miniproject folder. Open in your IDE of choice and make. Run the following command to see a simple output for A*:
 
 ./path-step4 inputs3/trickyM.txt inputs3/TM.txt 0 3 -a
 
-***
+
 
 ## Setup Files + Commands
 
@@ -50,7 +49,7 @@ $obstacles
 
 In the above template, an obstacle runs from node 0 -> 1, and another forms a hexagon via nodes 1 through 6. Note that the obstacles file does not add new nodes; it labels nodes from the nodes and edges file as obstacles.
 
-***
+
 
 ## Test Cases
 Extensive test cases, with CL inputs, outputs, and program design comments are included in TESTING.txt. If you simply wish to read about the overall implementation, skip to the section titled "step4."
