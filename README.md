@@ -1,6 +1,6 @@
 # Path Finding Algorithm: Dijkstra's and A* with Obstacles
 
-**
+***
 
 The included files and C++ code were part of my final project for Mechanical Engineering 555 taught by Genevieve Lipp. This program is an implementation of Dijkstra's and A* search, two path-finding algorithms.
 
